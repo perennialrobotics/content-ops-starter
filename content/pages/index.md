@@ -228,7 +228,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Pull out the most resistant of weeds
       color: text-dark
       styles:
         self:
