@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Tackle the most resistant weeds in your garden
+      text: Providing the tools to maintain your land
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
