@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Root Augur Drill Bit
       color: text-dark
       styles:
         self:
