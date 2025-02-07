@@ -688,11 +688,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Can't fine what you're looking for? Reach us here!
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Information you provide to us will be used to resolve your inquiry and for
+      no other purposes. We will not sell or share the information you provide
+      with third-parties.
     media:
       fields:
         - name: name
