@@ -178,7 +178,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Pull out the most resistant of weeds
+      text: Perennial Robotics
       color: text-dark
       styles:
         self:
