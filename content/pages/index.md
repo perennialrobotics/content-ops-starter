@@ -52,7 +52,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Root Augur Drill Bit
+      text: RootGone Augur Drill Bit
       color: text-dark
       styles:
         self:
