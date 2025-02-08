@@ -239,7 +239,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Can't fine what you're looking for? Reach us here!
+    subtitle: Can't find what you're looking for? Reach us here!
     text: >
       Information you provide to us will be used to resolve your inquiry and for
       no other purposes. We will not sell or share the information you provide
