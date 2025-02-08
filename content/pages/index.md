@@ -13,7 +13,7 @@ sections:
       lawn, and field maintenance.
     actions:
       - label: Shop Now
-        altText: Learn More
+        altText: ''
         url: /
         showIcon: false
         icon: arrowRight
