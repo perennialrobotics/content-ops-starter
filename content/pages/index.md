@@ -63,10 +63,9 @@ sections:
       - type: FeaturedItem
         title: Fast
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The twisting blades are designed to pull up even the most resistant
+          weeds. Clean up your lawn instantly. 
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
