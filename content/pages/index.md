@@ -116,10 +116,9 @@ sections:
         type: FeaturedItem
       - title: Convenient
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Fits almost all standard cordless drills. Just fit the bit in and
+          you're ready to go.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
