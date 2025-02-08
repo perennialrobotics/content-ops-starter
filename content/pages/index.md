@@ -211,7 +211,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: our company
       color: text-primary
       styles:
         self:
