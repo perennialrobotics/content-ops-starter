@@ -21,7 +21,7 @@ sections:
         style: primary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Learn More
         altText: ''
         url: /
         showIcon: true
