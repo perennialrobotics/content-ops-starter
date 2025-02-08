@@ -12,7 +12,7 @@ sections:
       We use the future of robotics to bring you the best tools for garden,
       lawn, and field maintenance.
     actions:
-      - label: Learn More
+      - label: Shop Now
         altText: ''
         url: /
         showIcon: false
