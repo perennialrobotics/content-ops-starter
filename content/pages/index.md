@@ -91,10 +91,9 @@ sections:
               borderRadius: x-large
       - title: Strong
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The perfect length to reach the ground from standing. No more back
+          pain from hunching over weeds.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
