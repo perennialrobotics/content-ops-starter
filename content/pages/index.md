@@ -57,7 +57,7 @@ sections:
     subtitle: A Garden Tool for Weeding and Lawn Maintenance
     items:
       - type: FeaturedItem
-        title: Fast
+        title: Powerful
         subtitle: Numbers Done
         text: >
           The twisting blades are designed to pull up even the most resistant
