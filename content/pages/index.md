@@ -85,7 +85,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Ergonomic
-        subtitle: The Job Stuff
+        subtitle: Save your back
         text: >
           The perfect length to reach the ground from standing. No more back
           pain from hunching over weeds.
