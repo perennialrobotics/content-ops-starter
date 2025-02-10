@@ -208,7 +208,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: our company
+      label: our story
       color: text-primary
       styles:
         self:
