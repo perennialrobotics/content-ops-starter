@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Providing the tools to maintain your land
+      text: 'Elevate your land with the help of fast, convenient tools'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
