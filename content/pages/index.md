@@ -54,7 +54,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'A '
+    subtitle: A Garden Tool for Weeding and Lawn Maintenance
     items:
       - type: FeaturedItem
         title: Fast
