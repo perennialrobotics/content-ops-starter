@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Pull out those weeds with our new ROOTGONE ANGUR DRILL BIT
     text: >
-      We use the future of robotics to bring you the best tools for garden,
+      We use the future of technology to bring you the best tools for garden,
       lawn, and field maintenance.
     actions:
       - label: Shop Now
