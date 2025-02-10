@@ -133,7 +133,7 @@ sections:
     actions:
       - label: Shop Now
         altText: ''
-        url: /
+        url: www.amazon.com/
         showIcon: false
         icon: arrowRight
         iconPosition: right
