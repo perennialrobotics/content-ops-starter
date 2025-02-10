@@ -84,7 +84,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Strong
+      - title: Ergonomic
         subtitle: The Job Stuff
         text: >
           The perfect length to reach the ground from standing. No more back
