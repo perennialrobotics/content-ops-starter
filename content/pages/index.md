@@ -145,7 +145,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: featured product
+      label: our product
       color: text-primary
       styles:
         self:
