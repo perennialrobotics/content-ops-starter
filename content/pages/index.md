@@ -177,9 +177,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: >-
-      A progressive environmental company looking to meet your land maintenance
-      needs
+    subtitle: Revolutionizing Ground Operations
     text: >
       In 2024, my family purchased a small farm in New Jersey and learned how to
       farm as absolute beginners. Seeing a need for better weeding technology, I
