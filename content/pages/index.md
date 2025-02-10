@@ -188,7 +188,7 @@ sections:
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
-      title: Title of the video
+      title: Perennial Robotics
       url: 'https://youtu.be/UOM3PSus_-c'
       controls: true
       aspectRatio: '16:9'
