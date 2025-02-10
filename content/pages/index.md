@@ -109,7 +109,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Convenient
-        subtitle: Faster
+        subtitle: Ready to use
         text: >
           Fits almost all standard cordless drills. Just fit the bit in and
           you're ready to go.
