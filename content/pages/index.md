@@ -58,7 +58,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Powerful
-        subtitle: Numbers Done
+        subtitle: A strong helpful tool
         text: >
           The twisting blades are designed to pull up even the most resistant
           weeds. Clean up your lawn instantly. 
