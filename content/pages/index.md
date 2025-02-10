@@ -180,11 +180,14 @@ sections:
     subtitle: >-
       A progressive environmental company looking to meet your land maintenance
       needs
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      In 2024, my family purchased a small farm in New Jersey and learned how to
+      farm as absolute beginners. Seeing a need for better weeding technology, I
+      was inspired to create a tool that could help us pull out the pesky weeds
+      that were too hard to get out by hand. Thus, I created the ROOTGONE AUGUR
+      DRILL BIT, a cordless drill attachment that can help in the weeding while
+      you're just walking around. Quick and easy to use, this tool will
+      transform your garden.
     media:
       title: Perennial Robotics
       url: 'https://youtu.be/UOM3PSus_-c'
