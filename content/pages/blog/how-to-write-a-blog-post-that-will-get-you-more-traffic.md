@@ -2,7 +2,7 @@
 type: PostLayout
 title: Weeding Auger Drill Bit User Guide
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
-date: '2023-01-18'
+date: '0002-01-18'
 excerpt: >-
   The video shows how to use the Rootgone Weeding Auger Drill Bit safely and
   effectively.
