@@ -54,7 +54,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: A Garden Tool for Weeding and Lawn Maintenance
+    subtitle: A Garden Tool for Weeding and Digging
     items:
       - type: FeaturedItem
         title: Powerful
