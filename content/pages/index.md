@@ -291,7 +291,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Perennial Robotics
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Eco-friendly weeding and other ground operation solutions
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
