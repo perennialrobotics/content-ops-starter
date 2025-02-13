@@ -7,7 +7,7 @@ sections:
       text: 'Elevate your land with the help of fast, convenient tools'
       color: text-dark
       type: TitleBlock
-    subtitle: Pull out those weeds with our new ROOTGONE AUGER DRILL BIT
+    subtitle: "Pull out those weeds with\_ ROOTGONE AUGER DRILL BIT"
     text: >
       We use the future of technology to bring you the best tools for garden,
       lawn, and field maintenance.
