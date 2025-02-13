@@ -4,7 +4,7 @@ title: Weeding Auger Drill Bit User Guide
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
 excerpt: >-
-  The video shows how to use the Rootgone weeding auger drill bit safely and
+  The video shows how to use the Rootgone Weeding Auger Drill Bit safely and
   effectively.
 featuredImage:
   url: /images/abstract-feature2.svg
