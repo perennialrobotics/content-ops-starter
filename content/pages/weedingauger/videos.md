@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Rootgone Weeding Auger Drill Bit Videos
       color: text-dark
       styles:
         self:
