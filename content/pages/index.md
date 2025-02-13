@@ -8,9 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: "Pull out those tough weeds with\_ \_ ROOTGONE AUGER DRILL BIT"
-    text: >
-      We use the future of technology to bring you the best tools for garden,
-      lawn, and field maintenance.
+    text: |
+      Making weeding so easy on hard soil as well as on soft soil.
     actions:
       - label: Shop Now
         altText: ''
