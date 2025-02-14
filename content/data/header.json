@@ -13,7 +13,7 @@
     },
     "primaryLinks": [
         {
-            "label": "Product",
+            "label": "About",
             "url": "/weedingauger",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "About",
+            "label": "Product",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
