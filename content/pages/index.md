@@ -45,6 +45,16 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - type: FeaturedItemsSection
     title:
       text: RootGone Auger Drill Bit
@@ -210,16 +220,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
