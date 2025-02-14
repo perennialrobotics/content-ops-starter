@@ -2,49 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: 'Elevate your land with the help of fast, convenient tools'
-      color: text-dark
-      type: TitleBlock
-    subtitle: "Pull out those tough weeds with\_ \_ ROOTGONE AUGER DRILL BIT"
-    text: |
-      Making weeding so easy on hard soil as well as on soft soil.
-    actions:
-      - label: Shop Now
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
-      - label: Learn More
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/IMG_1883.png
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - title:
       text: Perennial Robotics
       color: text-dark
@@ -106,6 +63,49 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - type: GenericSection
+    title:
+      text: 'Elevate your land with the help of fast, convenient tools'
+      color: text-dark
+      type: TitleBlock
+    subtitle: "Pull out those tough weeds with\_ \_ ROOTGONE AUGER DRILL BIT"
+    text: |
+      Making weeding so easy on hard soil as well as on soft soil.
+    actions:
+      - label: Shop Now
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Button
+      - label: Learn More
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
+    media:
+      url: /images/IMG_1883.png
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - type: FeaturedItemsSection
     title:
       text: RootGone Auger Drill Bit
