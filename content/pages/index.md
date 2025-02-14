@@ -45,6 +45,57 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - title:
+      text: Perennial Robotics
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Revolutionizing Ground Operations
+    text: >
+      In 2024, my family purchased a small farm in New Jersey and learned how to
+      farm as absolute beginners. Seeing a need for better weeding technology, I
+      was inspired to create a tool that could help us pull out the pesky weeds
+      that were too hard to get out by hand. Thus, I created the ROOTGONE AUGUR
+      DRILL BIT, a cordless drill attachment that can help in the weeding while
+      you're just walking around. Quick and easy to use, this tool will
+      transform your garden.
+    media:
+      title: Perennial Robotics
+      url: 'https://youtu.be/UOM3PSus_-c'
+      controls: true
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+      type: VideoBlock
+      autoplay: true
+      loop: true
+      muted: true
+    badge:
+      label: our story
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
   - type: FeaturedItemsSection
     title:
       text: RootGone Auger Drill Bit
@@ -169,57 +220,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: Perennial Robotics
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Revolutionizing Ground Operations
-    text: >
-      In 2024, my family purchased a small farm in New Jersey and learned how to
-      farm as absolute beginners. Seeing a need for better weeding technology, I
-      was inspired to create a tool that could help us pull out the pesky weeds
-      that were too hard to get out by hand. Thus, I created the ROOTGONE AUGUR
-      DRILL BIT, a cordless drill attachment that can help in the weeding while
-      you're just walking around. Quick and easy to use, this tool will
-      transform your garden.
-    media:
-      title: Perennial Robotics
-      url: 'https://youtu.be/UOM3PSus_-c'
-      controls: true
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    badge:
-      label: our story
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
