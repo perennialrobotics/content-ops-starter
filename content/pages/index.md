@@ -53,6 +53,16 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - type: GenericSection
     title:
       text: 'Elevate your land with the help of fast, convenient tools'
@@ -96,16 +106,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: FeaturedItemsSection
     title:
       text: RootGone Auger Drill Bit
