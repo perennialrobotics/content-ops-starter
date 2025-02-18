@@ -1,7 +1,7 @@
 ---
 title: Product
 slug: /blog
-numOfPostsPerPage: 8
+numOfPostsPerPage: 0
 enableSearch: true
 topSections:
   - type: FeaturedItemsSection
