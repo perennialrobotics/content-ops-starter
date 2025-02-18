@@ -6,13 +6,6 @@ excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
   dolor quas ad odit ipsum qui quia eius.
-featuredImage:
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
-  type: ImageBlock
-  styles:
-    self:
-      borderRadius: medium
 bottomSections: []
 isFeatured: false
 isDraft: false
